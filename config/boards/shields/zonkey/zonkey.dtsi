@@ -3,7 +3,7 @@
 
 / {
     chosen {
-        zmk,physical-layout = &zonkey_physical_layout;
+        zmk,physical-layout = &default_layout;
     };
 
         zonkey_physical_layout: zonkey_physical_layout {
